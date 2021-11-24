@@ -22,5 +22,6 @@
 	<classpathentry kind="src" path="Proxy"/>
 	<classpathentry kind="src" path="Chain of Responsibility"/>
 	<classpathentry kind="src" path="Command"/>
+	<classpathentry kind="src" path="Mediator"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
