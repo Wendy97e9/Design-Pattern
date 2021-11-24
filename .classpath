@@ -23,5 +23,6 @@
 	<classpathentry kind="src" path="Chain of Responsibility"/>
 	<classpathentry kind="src" path="Command"/>
 	<classpathentry kind="src" path="Mediator"/>
+	<classpathentry kind="src" path="Observer"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
