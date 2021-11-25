@@ -24,5 +24,8 @@
 	<classpathentry kind="src" path="Command"/>
 	<classpathentry kind="src" path="Mediator"/>
 	<classpathentry kind="src" path="Observer"/>
+	<classpathentry kind="src" path="State"/>
+	<classpathentry kind="src" path="Template Method"/>
+	<classpathentry kind="src" path="Visitor"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
